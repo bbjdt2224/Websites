@@ -1,0 +1,26 @@
+nav a{
+	color: white;
+}
+nav span{
+	background-color: white;
+}
+body{
+	background-image: url('1.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	font-family: papyrus;
+	font-weight: bold;
+}
+.container{
+	background-color: #DEB887;
+}
+.baige{
+	background-color: #F5F5DC;
+}
+.bold{
+	font-weight: bold;
+}
+.panel-title{
+	font-weight: bold;
+}
